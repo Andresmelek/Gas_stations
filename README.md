@@ -7,4 +7,3 @@
 | [ui.js]() | Interfaz. |
  [style.css]()| Custom css styles. |
 | [index.html]() | Page structure. |
-|
