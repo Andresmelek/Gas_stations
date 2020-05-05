@@ -5,5 +5,5 @@
 | [app.js]() | Where the magic happens. |
 | [API.js]()| Api configuration. |
 | [ui.js]() | Interfaz. |
- [style.css]()| Custom css styles. |
+| [style.css]()| Custom css styles. |
 | [index.html]() | Page structure. |
